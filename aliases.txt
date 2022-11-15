@@ -1,0 +1,2 @@
+#to encrypt pdf:
+qpdf --encrypt password $1 256 -- $2 $3
